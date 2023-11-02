@@ -1,4 +1,4 @@
-console.log('hellp people');
+console.log('hello people');
 
 const age = 20;
 if (age >= 18) {
