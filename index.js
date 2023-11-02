@@ -1,8 +1,8 @@
 console.log('hellp people');
 
-const userAge = 35;
-if (userAge >= 18) {
-    console.log('вы совершеннолетний');
+const age = 20;
+if (age >= 18) {
+    console.log('Вы совершенолетний');
 } else {
-    console.log('вы не совершеннолетний');
+    console.log('Вы НЕ совершенолетний');
 }
